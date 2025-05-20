@@ -1,14 +1,34 @@
-🔋 Electric Vehicles Dashboard | Tableau Interactive Visualization
+⚡ Electric Vehicle Analysis Dashboard (Tableau)
 
-Curious about how Electric Vehicles (EVs) are shaping the future?
-This interactive Tableau dashboard lets you dive deep into real EV data to uncover:
+This Tableau project analyzes the electric vehicle (EV) landscape in the United States using comprehensive registration and performance data. The dashboard provides insights into the growth, distribution, and key trends of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), supporting decision-making for policy makers, manufacturers, and consumers.
 
-🚗 Top-performing models & manufacturers – See which EVs are leading the charge.
-📍 State-by-state adoption trends – Explore how EV popularity varies across the U.S.
-📈 Growth patterns over time – Watch the evolution of EV uptake in different regions.
+🎯 Objectives
+Assess total EV distribution across years, states, makes, and models.
+Compare BEVs vs PHEVs in terms of market share.
+Understand average electric range across vehicle types.
+Explore CAFV (Clean Alternative Fuel Vehicle) eligibility.
+Identify top EV manufacturers and most popular models.
 
-Whether you're a data enthusiast, policymaker, or just EV-curious, this dashboard provides dynamic filters and visuals to explore the trends that matter most.
+📊 Tableau Dashboards Created
+Chart Title	Description	Visualization Type
+Total EVs by Model Year	Analyze yearly growth of electric vehicles since 2010.	(Line/Area Chart)
+EV Distribution by State	Understand geographic adoption across the U.S.	(Map Chart)
+Top 10 EV Makes	Identify dominant EV manufacturers.	(Bar Chart)
+EVs by CAFV Eligibility	View clean fuel incentive eligibility distribution.	(Donut/Pie Chart)
+Top 10 EV Models	See the most popular electric car models.	(Grid/Table)
+BEV vs PHEV Comparison	Compare total count and percentage share.	(Summary KPIs + Pie Chart)
+Average Electric Range	View technology trends by measuring vehicle range.	(KPI/Bar Chart)
 
-🔧 Tools & Tech: Tableau, Advanced Excel (for data wrangling), public EV datasets
+🔍 Key Insights
+Total Vehicles: Significant rise in EVs from 2010 to recent years.
+BEV Dominance: Battery Electric Vehicles form a majority share compared to PHEVs.
+Top Brands: Tesla, Nissan, and Chevrolet are leading the EV market.
+Popular Models: Tesla Model 3, Nissan Leaf, and Chevy Volt top the list.
+Regional Trends: California leads in EV adoption by a wide margin.
+CAFV Incentives: A notable portion of vehicles qualify for clean fuel benefits.
 
-👉 Check it out and interact with the data to find your own insights
+🧰 Tools & Technologies
+📊 Tableau
+📄 Public electric vehicle dataset (Model, Make, State, Range, Type, Eligibility)
+📈 Visualizations focused on clarity, interactivity, and business relevance
+
